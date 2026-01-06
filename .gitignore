@@ -1,0 +1,8 @@
+# Directories
+/error_logs
+/old_code
+
+# Files
+*.csv
+*.tsv
+*.xlsx
