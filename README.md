@@ -1,4 +1,4 @@
-# VR Attention (Nature / Urban) Experiment
+# VR ATTENTION (NATURE / URBAN) EXPERIMENT
 
 This repository contains Python code used to create and run an experiment at Leiden University. This experiment investigated the effects of nature and urban exposure in virtual reality (VR) on the interplay between bottom-up and top-down attention. The resulting publication is now in preparation.
 
