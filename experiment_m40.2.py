@@ -12,6 +12,8 @@ from openpyxl import load_workbook
 from datetime import datetime
 from collections import OrderedDict
 
+# NOTE: the visual presentation was optimised specifically for the monitor used in the study (described in paper). The presentation, out of the box, may be suboptimal on a different monitor; some adjustments may be needed.
+
 # Runs a simple break
 def run_break(win, duration, break_marker_start):
     """
